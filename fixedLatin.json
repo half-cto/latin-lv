@@ -1,0 +1,992 @@
+[
+    {
+      "Latin": "ala alae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "spārns",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "apertura aperturae f",
+      "Dekl": "I deklinācija ",
+      "Latviski": "atvere, apertūra",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "area areae f",
+      "Dekl": "I deklinācija ",
+      "Latviski": "laukums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "arteria arteriae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "artērija",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "axilla axillae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "paduse",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "bursa bursae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "gļotsomiņa, somiņa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "capsula capsulae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "kapsula, apvalks, somiņa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cavea caveae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "dobums [kurvis]",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "clavicula claviculae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "atslēgas kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "costa costae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "riba",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "coxa coxae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "gūža",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "crista cristae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "šķautne; sekste",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "eminentia eminentiae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "pacēlums ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "fascia fasciae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "saistaudu apvalks, fascija",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "fibula fibulae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "mazais lielakauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "fissura fissurae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "sprauga, plaisa, rieva, grope",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "fossa fossae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "bedre, padziļinājums (lielāks)",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "fovea foveae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "bedre, padziļinājums (mazāks)",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "gingiva gingivae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "smaganas",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "glandula glandulae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "dziedzeris",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "incisura incisurae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "ierobs, iegriezums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "junctura juncturae f ",
+      "Dekl": "I deklinācija",
+      "Latviski": "savienojums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "lamina laminae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "plāksnīte, plātnīte, lapiņa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "linea lineae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "līnija, svītra ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "lingua linguae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "mēle",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "mandibula mandibulae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "apakšžoklis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "maxilla maxillae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "augšžoklis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "membrana membranae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "membrāna, plēve",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "nucha nuchae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "skausts",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "orbita orbitae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "orbīta, acs dobums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "palma palmae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "delna ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "patella patellae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "ceļa kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "porta portae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "vārti",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "protuberantia protuberantiae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "izcilnis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "scapula scapulae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "lāpstiņa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "spina spinae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "mugura; smaile",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "squama squamae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "zvīņa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "sutura suturae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "šuve",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tibia tibiae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "lielais lielakauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tunica tunicae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "apvalks",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ulna ulnae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "elkoņa kauls ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "vagina vaginae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "maksts",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "vena venae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "vēna",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "vertebra vertebrae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "skriemelis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "vesica vesicae f",
+      "Dekl": "I deklinācija",
+      "Latviski": "pūslis, maisiņš",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "angulus anguli m",
+      "Dekl": " II deklinācija",
+      "Latviski": "stūris; leņķis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "bronchus bronchi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "bronhs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "calcaneus calcanei m",
+      "Dekl": "II deklinācija",
+      "Latviski": "papēža kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "carpus carpi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "plaukstas pamats",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "clivus clivi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "nogāze",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cubitus cubiti m",
+      "Dekl": "II deklinācija",
+      "Latviski": "elkonis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "digitus digiti m",
+      "Dekl": "II deklinācija",
+      "Latviski": "pirksts",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "discus disci m",
+      "Dekl": "II deklinācija",
+      "Latviski": "disks",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "humerus humeri m",
+      "Dekl": "II deklinācija",
+      "Latviski": "augšdelma kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "lobus lobi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "daiva",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "malleolus malleoli m",
+      "Dekl": "II deklinācija",
+      "Latviski": "potīte",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "metacarpus metacarpi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "delna ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "metatarsus metatarsi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "plezna",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "musculus musculi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "muskulis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "nasus nasi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "deguns",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "nervus nervi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "nervs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "nodus nodi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "mezgls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "nucleus nuclei m",
+      "Dekl": "II deklinācija",
+      "Latviski": "kodols",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "oesophagus oesophagi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "barības vads",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "radius radii m",
+      "Dekl": "II deklinācija",
+      "Latviski": "spieķakauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ramus rami m",
+      "Dekl": "II deklinācija",
+      "Latviski": "zars",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "sulcus sulci m",
+      "Dekl": "II deklinācija",
+      "Latviski": "rieva",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tarsus tarsi m",
+      "Dekl": "II deklinācija",
+      "Latviski": "pēdas pamatne",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "truncus trunci m",
+      "Dekl": "II deklinācija",
+      "Latviski": "rumpis, viduklis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "antebrachium antebrachii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "apakšdelms",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "brachium brachii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "augšdelms",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cavum cavi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "dobums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cerebrum cerebri n",
+      "Dekl": "II deklinācija",
+      "Latviski": "galvas smadzenes",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "collum colli n",
+      "Dekl": "II deklinācija",
+      "Latviski": "kakliņš, kakls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cranium cranii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "galvaskauss",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "dorsum dorsi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "mugura",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ganglion ganglii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "nervu mezgls, ganglijs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ischium ischii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "sēža",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ilium ilii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "zarnkauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "jugum jugi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "(garenisks) izliekums/ pacēlums;  grēda ",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "labium labii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "lūpa (arī sejā)",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "labrum labri n",
+      "Dekl": "II deklinācija",
+      "Latviski": "skrimšļa lūpa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ligamentum ligamenti n",
+      "Dekl": "II deklinācija",
+      "Latviski": "saite",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "membrum membri n",
+      "Dekl": "II deklinācija",
+      "Latviski": "ķermeņa loceklis, daļa, (domāta ekstremitāte)",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "organum organi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "orgāns",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "palatum palati n",
+      "Dekl": "II deklinācija",
+      "Latviski": "aukslējas",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "peritoneum peritonei n",
+      "Dekl": "II deklinācija",
+      "Latviski": "vēderplēve",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "septum septi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "starpsiena, šķērssiena",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "skeleton skeleti n",
+      "Dekl": "II deklinācija",
+      "Latviski": "skelets",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "spatium spatii n",
+      "Dekl": "II deklinācija",
+      "Latviski": "sprauga",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "sternum sterni n",
+      "Dekl": "II deklinācija",
+      "Latviski": "krūšu kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "stratum strati n ",
+      "Dekl": "II deklinācija",
+      "Latviski": "kārta; slānis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "trigonum trigoni n",
+      "Dekl": "II deklinācija",
+      "Latviski": "trīsstūris",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tuberculum tuberculi n",
+      "Dekl": "II deklinācija",
+      "Latviski": "pauguriņš",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "abductor abductoris m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "atvilcējs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "adductor adductoris m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "pievilcējs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "apex apicis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "galotne, virsotne",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "canalis canalis m",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "kanāls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "coccyx coccȳgis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "astes kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "dens dentis m",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "zobs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "depressor depressoris m",
+      "Dekl": "III deklinācija e-gr.",
+      "Latviski": "nolaidējs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "erector erectoris m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "iztaisnotājs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "extensor extensoris m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "atliecējs; izstiepējs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "flexor flexoris m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "saliecējs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "hallux hallucis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "kājas īkšķis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "larynx laryngis m",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "balsene",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "levator levatoris m ",
+      "Dekl": "III deklinācija e-gr.",
+      "Latviski": " cēlājs, pacēlājs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "margo marginis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "mala",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "paries paríetis m",
+      "Dekl": "III deklinācija e-gr.",
+      "Latviski": "siena",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pes pedis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "pēda",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pollex pollicis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "rokas īkšķis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pulmo pulmonis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "plauša",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tendo tendinis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "cīpsla",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "thorax thoracis m",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "krūškurvis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "trochanter trochanteris m",
+      "Dekl": " III deklinācija e-gr.",
+      "Latviski": "grozītājs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "vomer vomeris m",
+      "Dekl": " III deklinācija e-gr.",
+      "Latviski": "lemesis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "abductio abductionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "atvilkšana",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "adductio adductionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "pievilkšana",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "articulatio articulationis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "locītava",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "auris auris f",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "auss",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "basis basis f  (gr.)",
+      "Dekl": "III deklinācija  i-gr.",
+      "Latviski": "pamatne, pamats",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cartilago cartilaginis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "skrimslis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cavitas cavitatis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "dobums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cervix cervicis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "kakls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cutis cutis f",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "āda",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "extensio extensionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "atliekšana, izstiepšana",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "extremitas extremitatis f",
+      "Dekl": "III deklinācija e-gr.",
+      "Latviski": "ekstremitāte, gals",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "flexio flexionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "saliekšana",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "gaster gastris f  (gr.)",
+      "Dekl": "III deklinācija  e-gr. ",
+      "Latviski": "kuņģis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "insertio insertionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "beigas",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "origo originis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "sākums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pars partis f",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "daļa",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pelvis pelvis f",
+      "Dekl": "III deklinācija  i-gr.",
+      "Latviski": "iegurnis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "phalanx phalangis f  (gr.)",
+      "Dekl": "III deklinācija j-gr.",
+      "Latviski": "pirkstu kauliņš",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pharynx pharyngis f",
+      "Dekl": "III deklinācija j-gr.",
+      "Latviski": "rīkle",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "pubis pubis f",
+      "Dekl": "III deklinācija j-gr.",
+      "Latviski": "kaunuma kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "radix radicis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "sakne",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "regio regionis f",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "apvidus",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tuberositas tuberositatis f",
+      "Dekl": "III deklinācija e-gr.",
+      "Latviski": "nelīdzenums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "abdomen abdominis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "vēders",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "caput capitis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "galva",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cor cordis n",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "sirds",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "corpus corporis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "ķermenis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "crus cruris n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "apakšstilbs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "femur femoris n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "augšstilbs, ciskas kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "foramen foraminis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "atvere, caurums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "hepar hepatis n",
+      "Dekl": "III deklinācija  i-gr. (TA98)/e- gr.",
+      "Latviski": "aknas",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "os oris n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "mute",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "os ossis n",
+      "Dekl": "III deklinācija  j-gr.",
+      "Latviski": "kauls",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "platysma platysmatis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "kakla zemādas muskulis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "systema systematis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "sistēma",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tuber tuberis n",
+      "Dekl": "III deklinācija  e-gr.",
+      "Latviski": "paugurs",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "arcus arcus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "loks, velve",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "ductus ductus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "vads",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "hiatus hiatus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "atvere, sprauga",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "meatus meatus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "eja",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "plexus plexus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "pinums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "processus processus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "izaugums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "sinus sinus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "sīnuss, dobums",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "tractus tractus m",
+      "Dekl": "IV deklinācija",
+      "Latviski": "trakts",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "manus manus f",
+      "Dekl": "IV deklinācija",
+      "Latviski": "plauksta; roka",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "cornu cornus n",
+      "Dekl": "IV deklinācija",
+      "Latviski": "rags",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "genu genus n",
+      "Dekl": "IV deklinācija",
+      "Latviski": "celis",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "facies faciei f",
+      "Dekl": "V deklinācija",
+      "Latviski": "virsma; seja",
+      "FIELD4": ""
+    },
+    {
+      "Latin": "superficies superficiei f",
+      "Dekl": " V deklinācija",
+      "Latviski": "virspuse; ārējā virsma",
+      "FIELD4": ""
+    }
+   ]

@@ -27,7 +27,7 @@ main {
 }
 
 section {
-    min-width: 450px;
+    width: min(100% - 4rem, 450px);
     background-color: var(--lemon-meringue);
     border-radius: 20px;
     padding: 1rem;
